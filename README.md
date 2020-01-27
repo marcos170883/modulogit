@@ -1,2 +1,1 @@
-Texto com parametros sobre o sistema.
-Lei com atenção!
+Meu primeiro sistema no Git (alterado e atualozado)
